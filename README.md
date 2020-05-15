@@ -1,2 +1,2 @@
 # learn_typescript
-Personal repo of learning typescript
+Init simple project called `Finance Logger` for learning typescript.

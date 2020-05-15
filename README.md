@@ -1,2 +1,2 @@
 # learn_typescript
-Play around with objects and arrays in TypeScript.
+Learn how to make explicit types in TypeScript.

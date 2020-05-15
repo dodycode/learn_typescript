@@ -1,2 +1,2 @@
 # learn_typescript
-Play around with basic type in TypeScript.
+Play around with objects and arrays in TypeScript.

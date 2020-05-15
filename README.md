@@ -1,2 +1,2 @@
 # learn_typescript
-Init simple project called `Finance Logger` for learning typescript.
+Play around with basic type in TypeScript.

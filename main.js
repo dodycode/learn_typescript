@@ -1,10 +1,5 @@
 //declare explicit types
-var sebuahString;
-var sebuahNumber;
-var sebuahBoolean;
-var mahassiwa = []; //empty array. so we can use push() for later
-//union types
-var uid;
-var mixedArray = [];
+var variable;
+var arrays = []; //empty array. so we can use push() for later
 //declaring objects
 var mahasiswaObj;

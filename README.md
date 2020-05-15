@@ -1,2 +1,2 @@
 # learn_typescript
-Learn how to make explicit types in TypeScript.
+Learn how to make dynamic types in TypeScript.

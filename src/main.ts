@@ -1,21 +1,15 @@
-let numberOne = 10;
-let numberTwo = 15;
+let showMhs: Function;
 
-let updateNumbers: Function;
-let addNumbers: Function;
+type mahasiswaObj = {nama_lengkap: string, nim: string|number, role: string};
 
-updateNumbers = (updatedNumberOne: number, updatedNumberTwo: number): void => {
-	numberOne = updatedNumberOne;
-	numberTwo = updatedNumberTwo;
-}
+showMhs = (mhs: mahasiswaObj) => {
+	return mhs;
+};
 
-addNumbers = (numberOne: number, numberTwo: number): number => {
-	return numberOne + numberTwo;
-}
+let mahasiswa = {
+	nama_lengkap: 'reemar martin',
+	nim: 231343422,
+	role: 'model'
+};
 
-console.log(addNumbers(numberOne, numberTwo));
-
-console.log('lets update the numbers!');
-updateNumbers(20, 30);
-
-console.log(addNumbers(numberOne, numberTwo));
+console.log(showMhs(mahasiswa));

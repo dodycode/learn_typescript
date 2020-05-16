@@ -1,2 +1,2 @@
 # learn_typescript
-Learn TypeScript Fuctions more in depth
+Learn how to make type aliases in TypeScript

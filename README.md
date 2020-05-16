@@ -1,2 +1,2 @@
 # learn_typescript
-Learn how to correctly structuring TypeScript Projects.
+Learn TypeScript Fuctions more in depth
